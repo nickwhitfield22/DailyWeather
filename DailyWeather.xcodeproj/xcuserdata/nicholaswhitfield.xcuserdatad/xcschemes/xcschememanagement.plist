@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>DailyWeather.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A48B013F21785AF9006F47E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A48B015321785AFE006F47E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A48B015E21785AFE006F47E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
